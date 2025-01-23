@@ -50,3 +50,14 @@ Este projeto é um sistema simples para calcular juros compostos. O objetivo é 
     ```
 
 5. Teste com os exemplos de entrada fornecidos ou modifique conforme necessário.
+
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE), o que permite o uso, cópia e modificação do código, desde que os créditos sejam mantidos.
+
+## Contribuições
+Sinta-se à vontade para contribuir para este projeto! Se você encontrar algum problema ou tiver uma melhoria em mente, abra um **issue** ou envie um **pull request**.
+
+## Status do Projeto
+- [x] Funcionalidade principal de cálculo de juros compostos implementada.
+- [ ] Testes automatizados (em progresso).
+- [ ] Documentação completa.
